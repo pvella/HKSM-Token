@@ -1,2 +1,0 @@
-# HKSM-Token
-HKSM Token
